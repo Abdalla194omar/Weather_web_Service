@@ -1,0 +1,1922 @@
+[
+    {
+        "id": 346030,
+        "name": "Zefta",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.244249,
+            "lat": 30.714199
+        }
+    },
+    {
+        "id": 346315,
+        "name": "Wasit",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 34.67083,
+            "lat": 29.029169
+        }
+    },
+    {
+        "id": 347236,
+        "name": "Toukh",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.20071,
+            "lat": 30.353939
+        }
+    },
+    {
+        "id": 347497,
+        "name": "Tanda",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.001921,
+            "lat": 30.788469
+        }
+    },
+    {
+        "id": 347542,
+        "name": "\u0162\u0101miyah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.961189,
+            "lat": 29.476391
+        }
+    },
+    {
+        "id": 347591,
+        "name": "\u0162alkh\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.377871,
+            "lat": 31.0539
+        }
+    },
+    {
+        "id": 347612,
+        "name": "Tal\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.942921,
+            "lat": 30.68025
+        }
+    },
+    {
+        "id": 347634,
+        "name": "\u0162ah\u0163\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.50214,
+            "lat": 26.7693
+        }
+    },
+    {
+        "id": 347749,
+        "name": "Sumus\u0163\u0101 as Sul\u0163\u0101n\u012b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.85,
+            "lat": 28.91667
+        }
+    },
+    {
+        "id": 347794,
+        "name": "Mu\u1e29\u0101faz\u0327at S\u016bh\u0101j",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.700001,
+            "lat": 26.5
+        }
+    },
+    {
+        "id": 347796,
+        "name": "Sohag",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.69478,
+            "lat": 26.55695
+        }
+    },
+    {
+        "id": 347863,
+        "name": "Siwa Oasis",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 25.51952,
+            "lat": 29.20409
+        }
+    },
+    {
+        "id": 348112,
+        "name": "S\u012bd\u012b S\u0101lim",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.78665,
+            "lat": 31.271049
+        }
+    },
+    {
+        "id": 349114,
+        "name": "Shirb\u012bn",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.521271,
+            "lat": 31.19544
+        }
+    },
+    {
+        "id": 349156,
+        "name": "Shib\u012bn al Qan\u0101\u1e6dir",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.320181,
+            "lat": 30.312691
+        }
+    },
+    {
+        "id": 349158,
+        "name": "Shib\u012bn al Kawm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.009041,
+            "lat": 30.55258
+        }
+    },
+    {
+        "id": 349340,
+        "name": "Sharm el-Sheikh",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 34.304989,
+            "lat": 27.85183
+        }
+    },
+    {
+        "id": 349401,
+        "name": "Mu\u1e29\u0101faz\u0327at Sham\u0101l S\u012bn\u0101\u2019",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.700001,
+            "lat": 30.5
+        }
+    },
+    {
+        "id": 349598,
+        "name": "Sar\u0101biy\u016bm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.291111,
+            "lat": 30.375561
+        }
+    },
+    {
+        "id": 349715,
+        "name": "Samann\u016bd",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.24332,
+            "lat": 30.960329
+        }
+    },
+    {
+        "id": 349717,
+        "name": "Sam\u0101l\u016b\u0163",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.71007,
+            "lat": 28.31214
+        }
+    },
+    {
+        "id": 349852,
+        "name": "S\u0101\u1e29il \u0162ah\u0163\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.5,
+            "lat": 26.76667
+        }
+    },
+    {
+        "id": 350203,
+        "name": "Rosetta",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.416389,
+            "lat": 31.40444
+        }
+    },
+    {
+        "id": 350370,
+        "name": "Quwaysin\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.15777,
+            "lat": 30.564819
+        }
+    },
+    {
+        "id": 350376,
+        "name": "Qu\u0163\u016br",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.956141,
+            "lat": 30.97225
+        }
+    },
+    {
+        "id": 350422,
+        "name": "Kousa",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.763618,
+            "lat": 25.91407
+        }
+    },
+    {
+        "id": 350546,
+        "name": "Mu\u1e29\u0101faz\u0327at Qin\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.75,
+            "lat": 25.799999
+        }
+    },
+    {
+        "id": 350550,
+        "name": "Qin\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.726711,
+            "lat": 26.164181
+        }
+    },
+    {
+        "id": 350661,
+        "name": "Qa\u015fr al Far\u0101firah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 27.96979,
+            "lat": 27.056801
+        }
+    },
+    {
+        "id": 350789,
+        "name": "Qaly\u016bb",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.205601,
+            "lat": 30.17922
+        }
+    },
+    {
+        "id": 350893,
+        "name": "Nuwaybi\u2018a",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 34.663399,
+            "lat": 29.04681
+        }
+    },
+    {
+        "id": 351022,
+        "name": "Ni\u015ff Atr\u012bb",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.183331,
+            "lat": 30.466669
+        }
+    },
+    {
+        "id": 351388,
+        "name": "Naj\u2018 Tinj\u0101r",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.866669,
+            "lat": 24
+        }
+    },
+    {
+        "id": 351434,
+        "name": "Naja' \u1e24amm\u0101d\u012b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.241421,
+            "lat": 26.04949
+        }
+    },
+    {
+        "id": 351483,
+        "name": "Naj\u2018 al Khu\u0163bah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.633331,
+            "lat": 25.683331
+        }
+    },
+    {
+        "id": 352344,
+        "name": "Minyat an Na\u015fr",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.6399,
+            "lat": 31.12294
+        }
+    },
+    {
+        "id": 352354,
+        "name": "Mun\u016bf",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.931641,
+            "lat": 30.46579
+        }
+    },
+    {
+        "id": 352603,
+        "name": "Mu\u1e29\u0101faz\u0327at Ma\u0163r\u016b\u1e29",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 27.5,
+            "lat": 29.700001
+        }
+    },
+    {
+        "id": 352628,
+        "name": "Ma\u0163\u0101y",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.77924,
+            "lat": 28.418989
+        }
+    },
+    {
+        "id": 352679,
+        "name": "Masht\u016bl as S\u016bq",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.3776,
+            "lat": 30.360559
+        }
+    },
+    {
+        "id": 352733,
+        "name": "Mersa Matruh",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 27.245279,
+            "lat": 31.352539
+        }
+    },
+    {
+        "id": 352736,
+        "name": "Marsa Alam",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 34.891811,
+            "lat": 25.075729
+        }
+    },
+    {
+        "id": 352913,
+        "name": "Manfal\u016b\u0163",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.970039,
+            "lat": 27.3104
+        }
+    },
+    {
+        "id": 352951,
+        "name": "Mallaw\u012b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.84165,
+            "lat": 27.7314
+        }
+    },
+    {
+        "id": 353219,
+        "name": "Mad\u012bnat Sittah Ukt\u016bbar",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.049999,
+            "lat": 29.816669
+        }
+    },
+    {
+        "id": 353223,
+        "name": "Mad\u012bnat as S\u0101d\u0101t",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.508711,
+            "lat": 30.36742
+        }
+    },
+    {
+        "id": 353802,
+        "name": "Kawm Umb\u016b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.946259,
+            "lat": 24.47669
+        }
+    },
+    {
+        "id": 353828,
+        "name": "Kawm \u1e28am\u0101dah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.69733,
+            "lat": 30.76096
+        }
+    },
+    {
+        "id": 354076,
+        "name": "Kafr Shukr",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.24444,
+            "lat": 30.549721
+        }
+    },
+    {
+        "id": 354105,
+        "name": "Kafr \u015eaqr",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.62575,
+            "lat": 30.79336
+        }
+    },
+    {
+        "id": 354365,
+        "name": "Kafr az Zayy\u0101t",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.81805,
+            "lat": 30.8248
+        }
+    },
+    {
+        "id": 354500,
+        "name": "Kafr ash Shaykh",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.9,
+            "lat": 31.299999
+        }
+    },
+    {
+        "id": 354502,
+        "name": "Kafr ash Shaykh",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.940121,
+            "lat": 31.1143
+        }
+    },
+    {
+        "id": 354775,
+        "name": "Kafr ad Daww\u0101r",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.128429,
+            "lat": 31.13385
+        }
+    },
+    {
+        "id": 354981,
+        "name": "Juhaynah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.497601,
+            "lat": 26.673189
+        }
+    },
+    {
+        "id": 355005,
+        "name": "Al Jubayl",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.631371,
+            "lat": 28.1984
+        }
+    },
+    {
+        "id": 355015,
+        "name": "Jizayy",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.84684,
+            "lat": 30.463051
+        }
+    },
+    {
+        "id": 355026,
+        "name": "Jirj\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.891609,
+            "lat": 26.338261
+        }
+    },
+    {
+        "id": 355182,
+        "name": "South Sinai Governorate",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.799999,
+            "lat": 29
+        }
+    },
+    {
+        "id": 355392,
+        "name": "\u2018Izbat al Burj",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.841061,
+            "lat": 31.5084
+        }
+    },
+    {
+        "id": 355420,
+        "name": "I\u0163s\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.78944,
+            "lat": 29.2376
+        }
+    },
+    {
+        "id": 355449,
+        "name": "Isn\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.55402,
+            "lat": 25.29336
+        }
+    },
+    {
+        "id": 355628,
+        "name": "Idk\u016b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.299009,
+            "lat": 31.307819
+        }
+    },
+    {
+        "id": 355648,
+        "name": "Ibshaw\u0101y",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.681419,
+            "lat": 29.35804
+        }
+    },
+    {
+        "id": 355795,
+        "name": "\u1e28alw\u0101n",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.30084,
+            "lat": 29.84144
+        }
+    },
+    {
+        "id": 355939,
+        "name": "Hihy\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.588011,
+            "lat": 30.671301
+        }
+    },
+    {
+        "id": 356000,
+        "name": "\u1e28awsh \u2018\u012as\u00e1",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.29018,
+            "lat": 30.9128
+        }
+    },
+    {
+        "id": 356806,
+        "name": "Fuwwah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.55018,
+            "lat": 31.202909
+        }
+    },
+    {
+        "id": 356933,
+        "name": "Farsh\u016b\u0163",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.163288,
+            "lat": 26.054939
+        }
+    },
+    {
+        "id": 356945,
+        "name": "F\u0101rask\u016br",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.715071,
+            "lat": 31.329769
+        }
+    },
+    {
+        "id": 356989,
+        "name": "F\u0101q\u016bs",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.801821,
+            "lat": 30.730061
+        }
+    },
+    {
+        "id": 357542,
+        "name": "\u2018Ezbet el-Auq\u00e2t",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.30526,
+            "lat": 29.865339
+        }
+    },
+    {
+        "id": 357678,
+        "name": "\u2018Izbat Ab\u016b \u2018A\u0163wah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.260559,
+            "lat": 30.5644
+        }
+    },
+    {
+        "id": 357790,
+        "name": "El-Qushl\u00e2q\u00e2t",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.816669,
+            "lat": 31.133329
+        }
+    },
+    {
+        "id": 357994,
+        "name": "Arab Republic of Egypt",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30,
+            "lat": 27
+        }
+    },
+    {
+        "id": 358044,
+        "name": "Damietta Governorate",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.75,
+            "lat": 31.35
+        }
+    },
+    {
+        "id": 358048,
+        "name": "Damietta",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.81332,
+            "lat": 31.416479
+        }
+    },
+    {
+        "id": 358095,
+        "name": "Diyarb Najm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.439251,
+            "lat": 30.754219
+        }
+    },
+    {
+        "id": 358108,
+        "name": "Dis\u016bq",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.64649,
+            "lat": 31.133051
+        }
+    },
+    {
+        "id": 358115,
+        "name": "Dishn\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.475979,
+            "lat": 26.12467
+        }
+    },
+    {
+        "id": 358172,
+        "name": "Dikirnis",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.594271,
+            "lat": 31.088711
+        }
+    },
+    {
+        "id": 358245,
+        "name": "Dahab",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 34.513378,
+            "lat": 28.50098
+        }
+    },
+    {
+        "id": 358269,
+        "name": "Dayr\u016b\u0163",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.80764,
+            "lat": 27.556021
+        }
+    },
+    {
+        "id": 358274,
+        "name": "Dayr Maw\u0101s",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.846621,
+            "lat": 27.64176
+        }
+    },
+    {
+        "id": 358333,
+        "name": "Daww\u0101r Ab\u016b al \u2018\u0100\u015f\u012b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 29.683331,
+            "lat": 30.9
+        }
+    },
+    {
+        "id": 358448,
+        "name": "Damanh\u016br",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.469139,
+            "lat": 31.039169
+        }
+    },
+    {
+        "id": 358600,
+        "name": "B\u016bsh",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.127331,
+            "lat": 29.148161
+        }
+    },
+    {
+        "id": 358617,
+        "name": "Mu\u1e29\u0101faz\u0327at B\u016br Sa\u2018\u012bd",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.299999,
+            "lat": 31.1
+        }
+    },
+    {
+        "id": 358619,
+        "name": "Port Said",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.284119,
+            "lat": 31.25654
+        }
+    },
+    {
+        "id": 358620,
+        "name": "Safaga",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.936508,
+            "lat": 26.729179
+        }
+    },
+    {
+        "id": 358821,
+        "name": "Bilq\u0101s",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.357981,
+            "lat": 31.21452
+        }
+    },
+    {
+        "id": 358840,
+        "name": "Bilbays",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.562229,
+            "lat": 30.420389
+        }
+    },
+    {
+        "id": 358970,
+        "name": "Basy\u016bn",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.813379,
+            "lat": 30.93976
+        }
+    },
+    {
+        "id": 359171,
+        "name": "Mu\u1e29\u0101faz\u0327at Ban\u012b Suwayf",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.6,
+            "lat": 28.9
+        }
+    },
+    {
+        "id": 359173,
+        "name": "Ban\u012b Suwayf",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.097851,
+            "lat": 29.074409
+        }
+    },
+    {
+        "id": 359212,
+        "name": "Ban\u012b Maz\u0101r",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.8004,
+            "lat": 28.503599
+        }
+    },
+    {
+        "id": 359256,
+        "name": "Ban\u012b Gh\u0101lib",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.049351,
+            "lat": 27.198879
+        }
+    },
+    {
+        "id": 359280,
+        "name": "Banh\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.178579,
+            "lat": 30.459061
+        }
+    },
+    {
+        "id": 359304,
+        "name": "Bal\u0163\u012bm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.09094,
+            "lat": 31.55463
+        }
+    },
+    {
+        "id": 359416,
+        "name": "B\u0101h\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.012251,
+            "lat": 29.139429
+        }
+    },
+    {
+        "id": 359493,
+        "name": "Zagazig",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.502001,
+            "lat": 30.587681
+        }
+    },
+    {
+        "id": 359576,
+        "name": "Aws\u012bm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.13571,
+            "lat": 30.12303
+        }
+    },
+    {
+        "id": 359678,
+        "name": "El-Tor",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.625401,
+            "lat": 28.23638
+        }
+    },
+    {
+        "id": 359710,
+        "name": "At Tall al Kab\u012br",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.78525,
+            "lat": 30.544479
+        }
+    },
+    {
+        "id": 359781,
+        "name": "Mu\u1e29\u0101faz\u0327at Asy\u016b\u0163",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.1,
+            "lat": 27.200001
+        }
+    },
+    {
+        "id": 359783,
+        "name": "Asy\u016b\u0163",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.18368,
+            "lat": 27.18096
+        }
+    },
+    {
+        "id": 359787,
+        "name": "Mu\u1e29\u0101faz\u0327at Asw\u0101n",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.900002,
+            "lat": 23.299999
+        }
+    },
+    {
+        "id": 359792,
+        "name": "Aswan",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.90704,
+            "lat": 24.09343
+        }
+    },
+    {
+        "id": 359796,
+        "name": "Suez",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.526272,
+            "lat": 29.973709
+        }
+    },
+    {
+        "id": 359797,
+        "name": "As Suways",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.299999,
+            "lat": 29.700001
+        }
+    },
+    {
+        "id": 359900,
+        "name": "A\u015f \u015eaff",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.281111,
+            "lat": 29.56472
+        }
+    },
+    {
+        "id": 359927,
+        "name": "A\u015fl\u0101n",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.04417,
+            "lat": 29.48028
+        }
+    },
+    {
+        "id": 359953,
+        "name": "Ash Shuhad\u0101\u2019",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.89875,
+            "lat": 30.59618
+        }
+    },
+    {
+        "id": 360015,
+        "name": "Ash Sh\u0101\u0163ib\u012b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 29.91667,
+            "lat": 31.200001
+        }
+    },
+    {
+        "id": 360016,
+        "name": "Mu\u1e29\u0101faz\u0327at ash Sharq\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.799999,
+            "lat": 30.700001
+        }
+    },
+    {
+        "id": 360048,
+        "name": "Ashm\u016bn",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.976351,
+            "lat": 30.298571
+        }
+    },
+    {
+        "id": 360464,
+        "name": "Al W\u0101si\u0163ah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.205561,
+            "lat": 29.33778
+        }
+    },
+    {
+        "id": 360483,
+        "name": "Mu\u1e29\u0101faz\u0327at al W\u0101d\u012b al Jad\u012bd",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 28.9,
+            "lat": 24.799999
+        }
+    },
+    {
+        "id": 360502,
+        "name": "Luxor",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.642101,
+            "lat": 25.698931
+        }
+    },
+    {
+        "id": 360526,
+        "name": "Al Q\u016b\u015f\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.818411,
+            "lat": 27.440201
+        }
+    },
+    {
+        "id": 360531,
+        "name": "Al Qu\u015fayr",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 34.277931,
+            "lat": 26.104259
+        }
+    },
+    {
+        "id": 360542,
+        "name": "Al Qurayn",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.73514,
+            "lat": 30.61618
+        }
+    },
+    {
+        "id": 360612,
+        "name": "Al Qan\u0101y\u0101t",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.460991,
+            "lat": 30.618799
+        }
+    },
+    {
+        "id": 360615,
+        "name": "Al Qan\u0101\u0163ir al Khayr\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.13703,
+            "lat": 30.19327
+        }
+    },
+    {
+        "id": 360621,
+        "name": "Mu\u1e29\u0101faz\u0327at al Qaly\u016bb\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.25,
+            "lat": 30.299999
+        }
+    },
+    {
+        "id": 360630,
+        "name": "Cairo",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.24967,
+            "lat": 30.06263
+        }
+    },
+    {
+        "id": 360631,
+        "name": "Cairo Governorate",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.65,
+            "lat": 30.049999
+        }
+    },
+    {
+        "id": 360686,
+        "name": "Al Miny\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.750299,
+            "lat": 28.10988
+        }
+    },
+    {
+        "id": 360688,
+        "name": "Mu\u1e29\u0101faz\u0327at al Miny\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30,
+            "lat": 28.1
+        }
+    },
+    {
+        "id": 360689,
+        "name": "Mu\u1e29\u0101faz\u0327at al Min\u016bf\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31,
+            "lat": 30.5
+        }
+    },
+    {
+        "id": 360716,
+        "name": "Al Ma\u0163ar\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.031078,
+            "lat": 31.182871
+        }
+    },
+    {
+        "id": 360754,
+        "name": "Al Manzalah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.937,
+            "lat": 31.15815
+        }
+    },
+    {
+        "id": 360761,
+        "name": "Al Man\u015f\u016brah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.38069,
+            "lat": 31.036369
+        }
+    },
+    {
+        "id": 360773,
+        "name": "Al Mansh\u0101h",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.803499,
+            "lat": 26.47686
+        }
+    },
+    {
+        "id": 360829,
+        "name": "Al Ma\u1e29allah al Kubr\u00e1",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.164989,
+            "lat": 30.974501
+        }
+    },
+    {
+        "id": 360923,
+        "name": "Al Kh\u0101rijah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.54635,
+            "lat": 25.451401
+        }
+    },
+    {
+        "id": 360928,
+        "name": "Al Kh\u0101nkah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.36812,
+            "lat": 30.21035
+        }
+    },
+    {
+        "id": 360995,
+        "name": "Giza",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.21093,
+            "lat": 30.00808
+        }
+    },
+    {
+        "id": 360997,
+        "name": "Mu\u1e29\u0101faz\u0327at al J\u012bzah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.05286,
+            "lat": 29.997761
+        }
+    },
+    {
+        "id": 361024,
+        "name": "Al Jan\u0101dilah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.08333,
+            "lat": 29.066669
+        }
+    },
+    {
+        "id": 361029,
+        "name": "Al Jamm\u0101l\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.865179,
+            "lat": 31.180861
+        }
+    },
+    {
+        "id": 361055,
+        "name": "Ismailia",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.272251,
+            "lat": 30.604271
+        }
+    },
+    {
+        "id": 361056,
+        "name": "Ismailia Governorate",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.400002,
+            "lat": 30.6
+        }
+    },
+    {
+        "id": 361058,
+        "name": "Alexandria",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 29.955271,
+            "lat": 31.215639
+        }
+    },
+    {
+        "id": 361059,
+        "name": "Mu\u1e29\u0101faz\u0327at al Iskandar\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 29.75,
+            "lat": 31
+        }
+    },
+    {
+        "id": 361103,
+        "name": "Al Ibr\u0101h\u012bm\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.56299,
+            "lat": 30.718769
+        }
+    },
+    {
+        "id": 361133,
+        "name": "Al \u1e28ubayl",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.666672,
+            "lat": 25.66667
+        }
+    },
+    {
+        "id": 361179,
+        "name": "Al \u1e28aw\u0101mid\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.25,
+            "lat": 29.9
+        }
+    },
+    {
+        "id": 361213,
+        "name": "Al \u1e28\u0101m\u016bl",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.147659,
+            "lat": 31.31146
+        }
+    },
+    {
+        "id": 361291,
+        "name": "Hurghada",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.812908,
+            "lat": 27.25738
+        }
+    },
+    {
+        "id": 361294,
+        "name": "Mu\u1e29\u0101faz\u0327at al Gharb\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31,
+            "lat": 30.9
+        }
+    },
+    {
+        "id": 361320,
+        "name": "Al Fayy\u016bm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.841801,
+            "lat": 29.30995
+        }
+    },
+    {
+        "id": 361323,
+        "name": "Mu\u1e29\u0101faz\u0327at al Fayy\u016bm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.5,
+            "lat": 29.299999
+        }
+    },
+    {
+        "id": 361329,
+        "name": "Al Fashn",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.899481,
+            "lat": 28.82431
+        }
+    },
+    {
+        "id": 361370,
+        "name": "Beheira Governorate",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.200001,
+            "lat": 30.6
+        }
+    },
+    {
+        "id": 361394,
+        "name": "Al Baw\u012b\u0163\u012b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 28.86591,
+            "lat": 28.34919
+        }
+    },
+    {
+        "id": 361435,
+        "name": "Al Balyan\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.003471,
+            "lat": 26.23568
+        }
+    },
+    {
+        "id": 361457,
+        "name": "Al B\u0101j\u016br",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.03681,
+            "lat": 30.43026
+        }
+    },
+    {
+        "id": 361468,
+        "name": "Red Sea Governorate",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.788448,
+            "lat": 27.186239
+        }
+    },
+    {
+        "id": 361478,
+        "name": "Al Bad\u0101r\u012b",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.415541,
+            "lat": 26.992571
+        }
+    },
+    {
+        "id": 361495,
+        "name": "Al \u2018Ayy\u0101\u0163",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.2575,
+            "lat": 29.61972
+        }
+    },
+    {
+        "id": 361546,
+        "name": "Arish",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.798439,
+            "lat": 31.13159
+        }
+    },
+    {
+        "id": 361612,
+        "name": "Al \u2018Alamayn",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 28.955021,
+            "lat": 30.83007
+        }
+    },
+    {
+        "id": 361661,
+        "name": "Akhm\u012bm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.745029,
+            "lat": 26.56217
+        }
+    },
+    {
+        "id": 361702,
+        "name": "Aj\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.29151,
+            "lat": 30.94154
+        }
+    },
+    {
+        "id": 361827,
+        "name": "Ad Dilinj\u0101t",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.536329,
+            "lat": 30.827909
+        }
+    },
+    {
+        "id": 361849,
+        "name": "Mu\u1e29\u0101faz\u0327at ad Daqahl\u012byah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.6,
+            "lat": 31.1
+        }
+    },
+    {
+        "id": 362004,
+        "name": "Ab\u016b T\u012bj",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.31897,
+            "lat": 27.044109
+        }
+    },
+    {
+        "id": 362041,
+        "name": "Abu Simbel",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.61624,
+            "lat": 22.345699
+        }
+    },
+    {
+        "id": 362277,
+        "name": "Ab\u016b Qurq\u0101\u015f",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.838409,
+            "lat": 27.9312
+        }
+    },
+    {
+        "id": 362485,
+        "name": "Ab\u016b Kab\u012br",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.67148,
+            "lat": 30.72508
+        }
+    },
+    {
+        "id": 362610,
+        "name": "Ab\u016b \u1e28amm\u0101d al Ma\u1e29a\u0163\u0163ah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.66667,
+            "lat": 30.533331
+        }
+    },
+    {
+        "id": 362882,
+        "name": "Ab\u016b al Ma\u0163\u0101m\u012br",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.174379,
+            "lat": 30.910179
+        }
+    },
+    {
+        "id": 362973,
+        "name": "Abn\u016bb",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.151051,
+            "lat": 27.2696
+        }
+    },
+    {
+        "id": 408911,
+        "name": "Al Wi\u1e29dah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.07633,
+            "lat": 30.581699
+        }
+    },
+    {
+        "id": 410366,
+        "name": "\u1e28ayy al Man\u0101kh",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.27438,
+            "lat": 31.26573
+        }
+    },
+    {
+        "id": 411165,
+        "name": "Idfu",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.874722,
+            "lat": 24.98028
+        }
+    },
+    {
+        "id": 412814,
+        "name": "Syria",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.299999,
+            "lat": 31.26667
+        }
+    },
+    {
+        "id": 414338,
+        "name": "\u2018Uqrat \u015eaf\u1e29ah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.87167,
+            "lat": 28.664721
+        }
+    },
+    {
+        "id": 415505,
+        "name": "\u2018Izbat N\u0101d\u012b a\u015f \u015eayd",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 29.936859,
+            "lat": 31.17889
+        }
+    },
+    {
+        "id": 419435,
+        "name": "Az Zarq\u0101",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.63554,
+            "lat": 31.20829
+        }
+    },
+    {
+        "id": 432887,
+        "name": "Al Amal (Nimrah Tham\u0101niyah)",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.603649,
+            "lat": 28.1054
+        }
+    },
+    {
+        "id": 6692512,
+        "name": "El Gouna",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.678249,
+            "lat": 27.394171
+        }
+    },
+    {
+        "id": 6692518,
+        "name": "Makadi Bay",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.899521,
+            "lat": 26.99123
+        }
+    },
+    {
+        "id": 6692521,
+        "name": "Port el Ghalib",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 33.82682,
+            "lat": 27.25425
+        }
+    },
+    {
+        "id": 7280514,
+        "name": "Naama Bay",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 34.329529,
+            "lat": 27.913811
+        }
+    },
+    {
+        "id": 7521348,
+        "name": "Ain Sukhna",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.316711,
+            "lat": 29.60018
+        }
+    },
+    {
+        "id": 7522531,
+        "name": "testing",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.40551,
+            "lat": 30.12191
+        }
+    },
+    {
+        "id": 7603259,
+        "name": "Mu\u1e29\u0101faz\u0327at al Uq\u015fur",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.650002,
+            "lat": 25.700001
+        }
+    },
+    {
+        "id": 7910966,
+        "name": "Beheira",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.34355,
+            "lat": 30.51478
+        }
+    },
+    {
+        "id": 7916170,
+        "name": "Mas\u0101kin al Akhsh\u0101b wa ash Sh\u0101y",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.23937,
+            "lat": 30.125549
+        }
+    },
+    {
+        "id": 7922173,
+        "name": "Al \u2018Atabah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.251961,
+            "lat": 30.050699
+        }
+    }
+]
